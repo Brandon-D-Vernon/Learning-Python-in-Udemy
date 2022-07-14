@@ -11,6 +11,8 @@ u_a = user_age
 
 print(u_a)
 
+#*****************************************
+
 #constants
 PI = 3.14 #never change that number or value
 
@@ -19,6 +21,8 @@ __hihi = 41 #should never use two underscore for variable. Bad practice.
 
 print(PI)
 
+#*****************************************
+
 #Programmers use a,b,c for rapid programming
 a,b,c = 1,2,3
 
@@ -26,6 +30,8 @@ a,b,c = 1,2,3
 print(a)
 print(b)
 print(c)
+
+#*****************************************
 
 # Keyword --- Description
 # and --- A logical operator
