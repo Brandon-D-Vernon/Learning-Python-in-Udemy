@@ -3,4 +3,59 @@ friends = ['Simon', 'Patty', 'Joy', 'Carrie', 'Amira', 'Chu']
 
 new_friend = ['Stanley']
 
-print(friends.sort() + .extend(new_friend))
+print(friends.sort() + new_friend)
+
+
+# My Answer
+friends = ['Simon', 'Patty', 'Joy', 'Carrie', 'Amira', 'Chu']
+
+new_friend = ['Stanley']
+
+friends.extend(new_friend)
+
+print(sorted(friends))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Solution: (keep in mind there are multiple ways to do this, so your answer may vary. As long as it works that's all that matters!)
+# friends.extend(new_friend)
+# print(sorted(friends))
