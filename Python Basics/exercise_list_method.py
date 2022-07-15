@@ -3,4 +3,4 @@ friends = ['Simon', 'Patty', 'Joy', 'Carrie', 'Amira', 'Chu']
 
 new_friend = ['Stanley']
 
-print(friends.sort() + .insert(new_friend))
+print(friends.sort() + .extend(new_friend))
